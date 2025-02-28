@@ -11,9 +11,9 @@
 - **Software Engineering:** Application Engineering (UI/UX Implementation), Project Management, Test-Driven Development (TDD), Application Testing
 
 ## 🌟 Featured Projects
-- **[Enterprise Web Application](https://github.com/Super-User/web-app)** – Scalable cloud-based application using C#, SQL, and AWS.
-- **[AI Data Analyzer](https://github.com/Super-User/ai-analyzer)** – Machine learning-based data analysis tool.
-- **[Dockerized Microservices](https://github.com/Super-User/docker-microservices)** – High-performance microservices architecture using Docker.
+-
+-
+-
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=seakyy&theme=github-dark-blue)
