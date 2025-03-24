@@ -13,7 +13,7 @@
 - **Tools:** Visual Studio, SQL Server Management Studio (SSMS), Git, GitLab, GitHub
 
 ## 🌟 Notable Projects
-
+-Raspberry Pi
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=seakyy&theme=github-dark-blue)
