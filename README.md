@@ -13,8 +13,8 @@
 - **Tools:** Visual Studio, SQL Server Management Studio (SSMS), Git, GitLab, GitHub
 
 ## 🌟 Notable Projects
-- [**Raspberry Pi:**] How to set up a new Raspberry Pi 5. Learn to install Apache and host a website(https://github.com/seakyy/Raspberry-Pi)
-- [**Machine Learning:**] See how a Machine Intelligence can predict an object in space(https://github.com/seakyy/Machine-Learning)
+- [**Raspberry Pi:**](https://github.com/seakyy/Raspberry-Pi) How to set up a new Raspberry Pi 5. Learn to install Apache and host a website
+- [**Machine Learning:**](https://github.com/seakyy/Machine-Learning) See how a Machine Intelligence can predict an object in space
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=seakyy&theme=github-dark-blue)
