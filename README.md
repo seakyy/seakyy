@@ -13,7 +13,7 @@
 - **Tools:** Visual Studio, SQL Server Management Studio (SSMS), Git, GitLab, GitHub
 
 ## 🌟 Notable Projects
-- Raspberry Pi
+- **Raspberry Pi:** How to set up a new Raspberry Pi 5. Learn to install Apache and host a website
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=seakyy&theme=github-dark-blue)
