@@ -15,6 +15,7 @@
 ## 🌟 Notable Projects
 - [**Raspberry Pi:**](https://github.com/seakyy/Raspberry-Pi) How to set up a new Raspberry Pi 5. Learn to install Apache and host a website
 - [**Machine Learning:**](https://github.com/seakyy/Machine-Learning) See how a Machine Intelligence can predict an object in space
+- CasinoWDP
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=seakyy&theme=github-dark-blue)
