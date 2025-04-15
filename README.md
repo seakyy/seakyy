@@ -15,7 +15,7 @@
 ## 🌟 Notable Projects
 - [**Raspberry Pi:**](https://github.com/seakyy/Raspberry-Pi) How to set up a new Raspberry Pi 5. Learn to install Apache and host a website
 - [**Machine Learning:**](https://github.com/seakyy/Machine-Learning) See how a Machine Intelligence can predict an object in space
-- **CasinoWPF:** WPF-Application, where you can play Blackjack or Slotmachine (Still in Developement!) (Private Repository)
+- **CasinoWPF:** WPF-Application, where you can play Blackjack or Slotmachine (Still in Developement! Releasing on 1.05.2025) (Private Repository)
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=seakyy&theme=github-dark-blue)
