@@ -1,4 +1,4 @@
-# 👋 Hey, I'm David Koteski!
+# 👋 Hey, I'm David Koteski! 
 
 🚀 **Application Developer** passionate about building scalable, secure, and efficient applications. I specialize in backend development, system architecture, and cloud computing.
 
