@@ -4,7 +4,7 @@
 
 ## 🛠️ Skills & Technologies
 - **Programming:** C# (Primary), JavaScript, SQL
-- **Web Development:** HTML, CSS, JavaScript, Frontend & Backend Engineering
+- **Web Development:** HTML, CSS, JavaScript, Frontend & Backend Engineering 
 - **Infrastructure & Cloud:** Docker (Second-best skill), AWS, Linux, Network Management, Raspberry Pi Knowledge
 - **Software Development:** Application Engineering (UI/UX Design & Implementation), Test-Driven Development (TDD), Code Coverage, Unit Testing, Mocking
 - **Security & Data:** Security/Risk Management, Machine Learning, Data Analysis & Management
