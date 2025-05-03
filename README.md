@@ -10,7 +10,7 @@
 - **Security & Data:** Security/Risk Management, Machine Learning, Data Analysis & Management
 - **Workflow & Methodologies:** Scrum, User Stories, Project Management
 - **Automation & Scripting:** PowerShell
-- **Tools:** Visual Studio, SQL Server Management Studio (SSMS), Git, GitLab, GitHub 
+- **Tools:** Visual Studio, SQL Server Management Studio (SSMS), Git, GitLab, GitHub  
 
 ## 🌟 Notable Projects
 - [**Raspberry Pi:**](https://github.com/seakyy/Raspberry-Pi) How to set up a new Raspberry Pi 5. Learn to install Apache and host a website
