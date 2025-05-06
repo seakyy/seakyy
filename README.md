@@ -1,21 +1,31 @@
-# 👋 Hey, I'm David Koteski! 
+# 👋 Hey, I'm David Koteski!
 
-🚀 **Application Developer** passionate about building scalable, secure, and efficient applications. I specialize in backend development, system architecture, and cloud computing. 
+🚀 **Application Developer** passionate about building scalable, secure, and efficient applications. I specialize in backend development, system architecture, and cloud computing.
+
+## 💡 About Me
+
+I'm a highly motivated and versatile application developer with a strong foundation in software engineering principles and a passion for creating innovative solutions. I'm currently studying at the Informatikmittelschule Baden (IMS) and eager to contribute my skills to challenging projects. I'm always learning and exploring new technologies to expand my skillset and stay at the forefront of the industry.
 
 ## 🛠️ Skills & Technologies
-- **Programming:** C# (Primary), JavaScript, SQL
-- **Web Development:** HTML, CSS, JavaScript, Frontend & Backend Engineering  
-- **Infrastructure & Cloud:** Docker (Second-best skill), AWS, Linux, Network Management, Raspberry Pi Knowledge
-- **Software Development:** Application Engineering (UI/UX Design & Implementation), Test-Driven Development (TDD), Code Coverage, Unit Testing, Mocking
-- **Security & Data:** Security/Risk Management, Machine Learning, Data Analysis & Management
-- **Workflow & Methodologies:** Scrum, User Stories, Project Management
-- **Automation & Scripting:** PowerShell
-- **Tools:** Visual Studio, SQL Server Management Studio (SSMS), Git, GitLab, GitHub  
+
+*   **Programming Languages:** C# (Primary), JavaScript, SQL, Python, TypeScript
+*   **Web Development:** HTML, CSS, JavaScript, React, Node.js, REST APIs
+*   **Cloud & Infrastructure:** Docker, AWS, Linux, Network Management, Raspberry Pi
+*   **Software Development:** Application Engineering (UI/UX Design & Implementation), Test-Driven Development (TDD), Code Coverage, Unit Testing, Mocking
+*   **Security & Data:** Security/Risk Management, Data Analysis & Management, SQL, NoSQL
+*   **Workflow & Methodologies:** Scrum, User Stories, Project Management, Agile Development
+*   **Automation & Scripting:** PowerShell, Bash
+*   **Tools:** Visual Studio, Visual Studio Code, SQL Server Management Studio (SSMS), Git, GitLab, GitHub
 
 ## 🌟 Notable Projects
-- [**Raspberry Pi:**](https://github.com/seakyy/Raspberry-Pi) How to set up a new Raspberry Pi 5. Learn to install Apache and host a website
-- [**Machine Learning:**](https://github.com/seakyy/Machine-Learning) See how a Machine Intelligence can predict an object in space
-- [**CasinoWPF:**](https://github.com/seakyy/CasinoWPF) WPF-Application, where you can play Blackjack or Slotmachine. Project is a working exe file!
+
+
+*   **[Raspberry Pi](github.com/seakyy/Raspberry-Pi):** Explored how to set up a new Raspberry Pi 5, including installing Apache and hosting a website. This project showcases my knowledge of Linux, network management, and web server configuration.
+
+*   **[Machine Learning](github.com/seakyy/Machine-Learning):** Experimented with machine learning algorithms to predict objects in space. This project demonstrates my interest in data analysis and machine learning techniques. 
+
+*   **[CasinoWPF](github.com/seakyy/CasinoWPF):** A WPF application where you can play Blackjack or Slotmachine. This project demonstrates my C# skills and ability to create working executable files.
+  
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=seakyy&theme=github-dark-blue)
