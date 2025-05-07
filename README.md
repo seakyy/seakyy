@@ -20,11 +20,11 @@ I'm a highly motivated and versatile application developer with a strong foundat
 ## 🌟 Notable Projects
 
 
-*   **[Raspberry Pi](github.com/seakyy/Raspberry-Pi):** Explored how to set up a new Raspberry Pi 5, including installing Apache and hosting a website. This project showcases my knowledge of Linux, network management, and web server configuration.
+*   **[Raspberry Pi](https://github.com/seakyy/Raspberry-Pi):** Explored how to set up a new Raspberry Pi 5, including installing Apache and hosting a website. This project showcases my knowledge of Linux, network management, and web server configuration.
 
-*   **[Machine Learning](github.com/seakyy/Machine-Learning):** Experimented with machine learning algorithms to predict objects in space. This project demonstrates my interest in data analysis and machine learning techniques. 
+*   **[Machine Learning](https://github.com/seakyy/Machine-Learning):** Experimented with machine learning algorithms to predict objects in space. This project demonstrates my interest in data analysis and machine learning techniques. 
 
-*   **[CasinoWPF](github.com/seakyy/CasinoWPF):** A WPF application where you can play Blackjack or Slotmachine. This project demonstrates my C# skills and ability to create working executable files.
+*   **[CasinoWPF](https://github.com/seakyy/CasinoWPF):** A WPF application where you can play Blackjack or Slotmachine. This project demonstrates my C# skills and ability to create working executable files.
   
 
 ## 📊 GitHub Stats
