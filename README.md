@@ -22,9 +22,9 @@ I'm a highly motivated and versatile application developer with a strong foundat
 ## 🌟 Notable Projects
 
 *   **[Monte Carlo Pi](https://github.com/seakyy/Monte-Carlo-Pi):** High-performance WPF application that estimates Pi using the Monte Carlo method with up to 10 million points, featuring real-time visualization and LiveCharts-based convergence tracking.
-*   **[Raspberry Pi](https://github.com/seakyy/Raspberry-Pi):** Explored how to set up a new Raspberry Pi 5, including installing Apache and hosting a website. This project showcases my knowledge [...]
-*   **[Machine Learning](https://github.com/seakyy/Machine-Learning):** Experimented with machine learning algorithms to predict objects in space. This project demonstrates my interest in data ana[...]
-*   **[CasinoWPF](https://github.com/seakyy/CasinoWPF):** A WPF application where you can play Blackjack or Slotmachine. This project demonstrates my C# skills and ability to create working execut[...]
+*   **[Raspberry Pi](https://github.com/seakyy/Raspberry-Pi):** Explored how to set up a new Raspberry Pi 5, including installing Apache and hosting a website. This project showcases my knowledge with Linux and setting up new hardware.
+*   **[Machine Learning](https://github.com/seakyy/Machine-Learning):** Experimented with machine learning algorithms to predict objects in space. This project demonstrates my interest in data analyses.
+*   **[CasinoWPF](https://github.com/seakyy/CasinoWPF):** A WPF application where you can play Blackjack or Slotmachine. This project demonstrates my C# skills and ability to create working executable files!
   
 
 ## 📊 GitHub Stats
