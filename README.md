@@ -17,7 +17,7 @@ I'm a highly motivated and versatile application developer with a strong foundat
 *   **Automation & Scripting:** PowerShell, Bash
 *   **Tools:** Visual Studio, Visual Studio Code, SQL Server Management Studio (SSMS), Git, GitLab, GitHub
 
-## 🌟 Notable Projects
+
 
 ## 🌟 Notable Projects
 
