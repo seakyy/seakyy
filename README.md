@@ -10,7 +10,7 @@ I'm a highly motivated and versatile application developer with a strong foundat
 
 *   **Programming Languages:** C# (Primary), JavaScript, SQL, Python, TypeScript
 *   **Web Development:** HTML, CSS, JavaScript, React, Node.js, REST APIs
-*   **Cloud & Infrastructure:** Docker, AWS, Linux, Network Management, Raspberry Pi
+*   **Cloud & Infrastructure:** Docker, AWS, Linux, Network.  Management, Raspberry Pi
 *   **Software Development:** Application Engineering (UI/UX Design & Implementation), Test-Driven Development (TDD), Code Coverage, Unit Testing, Mocking
 *   **Security & Data:** Security/Risk Management, Data Analysis & Management, SQL, NoSQL
 *   **Workflow & Methodologies:** Scrum, User Stories, Project Management, Agile Development
