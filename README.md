@@ -25,6 +25,7 @@ I'm a highly motivated and versatile application developer with a strong foundat
 *   **[Raspberry Pi](https://github.com/seakyy/Raspberry-Pi):** Explored how to set up a new Raspberry Pi 5, including installing Apache and hosting a website. This project showcases my knowledge with Linux and setting up new hardware.
 *   **[Machine Learning](https://github.com/seakyy/Machine-Learning):** Experimented with machine learning algorithms to predict objects in space. This project demonstrates my interest in data analyses.
 *   **[CasinoWPF](https://github.com/seakyy/CasinoWPF):** A WPF application where you can play Blackjack or Slotmachine. This project demonstrates my C# skills and ability to create working executable files!
+*   **[EventFeedbackApp](https://github.com/seakyy/EventFeedbackApp):** It's a web-based platform that enables event organizers to create interactive feedback sessions. 
   
 
 ## 📊 GitHub Stats
