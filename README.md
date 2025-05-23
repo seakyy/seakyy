@@ -120,15 +120,92 @@ Comprehensive exploration of Raspberry Pi 5 setup, Apache installation, and web 
 
 </details>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=seakyy&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+### 🔥 Activity & Performance Metrics
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=seakyy&theme=tokyonight&hide_border=true&border_radius=15&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seakyy&layout=compact&theme=github_dark&hide_border=true&border_radius=10" alt="Top Languages" />
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 📈 Comprehensive Stats
+<img src="https://github-readme-stats.vercel.app/api?username=seakyy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&custom_title=seakyy's%20GitHub%20Analytics" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+### 🎯 Language Distribution
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seakyy&layout=donut&theme=tokyonight&hide_border=true&border_radius=15&custom_title=Tech%20Stack%20Distribution" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🏆 GitHub Trophy Collection
+<img src="https://github-profile-trophy.vercel.app/?username=seakyy&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+<details>
+<summary>🌟 Advanced Analytics & Insights</summary>
+
+<div align="center">
+
+### 📊 Detailed Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seakyy&theme=tokyo-night&hide_border=true&radius=15" alt="Activity Graph" />
+
+<br/><br/>
+
+### ⚡ Coding Metrics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seakyy&theme=tokyonight" alt="Profile Summary" />
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seakyy&theme=tokyonight" alt="Repos per Language" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seakyy&theme=tokyonight" alt="Most Commit Language" />
+</td>
+</tr>
+</table>
+
+### 🎨 3D Contribution Graph
+<img src="https://github.com/seakyy/seakyy/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
+
+</details>
+
+<div align="center">
+
+### 🎵 Currently Coding To
+[![Spotify](https://novatorem-seakyy.vercel.app/api/spotify)](https://open.spotify.com/user/u3eix1kvsbz7w7jxtl624hr49)
+
+*Real-time Spotify activity - updates automatically!*
+
+</div>
+
+<div align="center">
+
+### ⏰ WakaTime Coding Activity
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=seakyy&theme=tokyonight&hide_border=true&border_radius=15&layout=compact" alt="WakaTime Stats" />
+
+*Weekly coding time breakdown*
 
 </div>
 
@@ -142,6 +219,16 @@ Comprehensive exploration of Raspberry Pi 5 setup, Apache installation, and web 
 
 **📧 Reach out for:** Open Source Contributions • Project Collaborations • Tech Discussions • Mentorship
 
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=seakyy&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+
 <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 
 </div>
+
+<!-- Snake Animation Generator -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seakyy/seakyy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seakyy/seakyy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seakyy/seakyy/output/github-contribution-grid-snake.svg">
+</picture>
