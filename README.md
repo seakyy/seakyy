@@ -119,6 +119,7 @@ Web-based platform enabling event organizers to create interactive feedback sess
 Comprehensive exploration of Raspberry Pi 5 setup, Apache installation, and web hosting, demonstrating Linux administration and hardware integration skills.
 
 </details>
+<summary>🌟 Advanced Analytics & Insights</summary>
 
 ## 📊 GitHub Analytics Dashboard
 
@@ -159,7 +160,6 @@ Comprehensive exploration of Raspberry Pi 5 setup, Apache installation, and web 
 <br/>
 
 <details>
-<summary>🌟 Advanced Analytics & Insights</summary>
 
 <div align="center">
 
