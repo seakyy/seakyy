@@ -184,14 +184,16 @@ Comprehensive exploration of Raspberry Pi 5 setup, Apache installation, and web 
 </tr>
 </table>
 
+<div align="center">
+
 ### 🎨 3D Contribution Graph
-<img src="https://github.com/seakyy/seakyy/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seakyy/seakyy/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seakyy/seakyy/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seakyy/seakyy/output/dist/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
-
-</details>
-
-<div align="center">
 
 ### 🎵 Currently Coding To
 [![Spotify](https://novatorem-seakyy.vercel.app/api/spotify)](https://open.spotify.com/user/u3eix1kvsbz7w7jxtl624hr49)
