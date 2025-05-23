@@ -198,16 +198,6 @@ Comprehensive exploration of Raspberry Pi 5 setup, Apache installation, and web 
 
 *Real-time Spotify activity - updates automatically!*
 
-</div>
-
-<div align="center">
-
-### ⏰ WakaTime Coding Activity
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=seakyy&theme=tokyonight&hide_border=true&border_radius=15&layout=compact" alt="WakaTime Stats" />
-
-*Weekly coding time breakdown*
-
-</div>
 
 ---
 
