@@ -2,9 +2,9 @@
   
 # 👋 Hey there, I'm David Koteski!
 
-### 🚀 Application Developer | Backend Specialist | CyberSecurity Enthusiast
+### 🚀 Application Developer | Backend Specialist | 🔐 CyberSecurity Enthusiast
 
-*Building scalable, secure, and efficient applications with passion*
+*Building scalable, secure, and efficient applications with passion for digital security*
 
 ---
 
@@ -16,14 +16,14 @@
 
 ## 💡 About Me
 
-I'm a highly motivated and versatile application developer with a strong foundation in software engineering principles and a passion for creating innovative solutions. Currently studying and constantly expanding my knowledge in modern development practices, I focus on backend development, system architecture, and cloud computing.
+I'm a highly motivated and versatile application developer with a strong foundation in software engineering principles and a passion for creating innovative solutions. Currently studying and constantly expanding my knowledge in modern development practices, I focus on backend development, system architecture, cloud computing, and **cybersecurity**. My goal is to build secure, resilient applications while staying ahead of emerging security threats.
 
 <details>
 <summary>🎯 Core Philosophy</summary>
 
-> **"Always learning, always improving."**
+> **"Always learning, always improving - with security by design."**
 > 
-> I believe in continuous growth, embracing new technologies, and building solutions that make a real impact.
+> I believe in continuous growth, embracing new technologies, and building solutions that make a real impact while maintaining the highest security standards. Security isn't an afterthought—it's fundamental to everything I build.
 
 </details>
 
@@ -39,6 +39,7 @@ I'm a highly motivated and versatile application developer with a strong foundat
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -53,12 +54,14 @@ I'm a highly motivated and versatile application developer with a strong foundat
 </td>
 <td valign="top" width="33%">
 
-### 🔧 Tools & Methods
+### 🔧 Tools & Security
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-**Methodologies:** Agile/Scrum, TDD, CI/CD
+**Methodologies:** Agile/Scrum, TDD, CI/CD, OWASP, DevSecOps
 
 </td>
 </tr>
@@ -66,10 +69,38 @@ I'm a highly motivated and versatile application developer with a strong foundat
 
 ### 🎯 Specialized Areas
 - **Backend Development:** API design, microservices, system architecture
-- **Security & Risk Management:** Secure coding practices, vulnerability assessment
-- **Data Management:** SQL/NoSQL databases, data analysis
-- **DevOps & Automation:** Docker, cloud deployment, scripting (PowerShell, Bash)
-- **Hardware Projects:** Raspberry Pi, IoT solutions
+- **🔐 Cybersecurity & Ethical Hacking:** Penetration testing, vulnerability assessment, security audits
+- **🛡️ Security & Risk Management:** Secure coding practices, threat modeling, incident response
+- **Data Management:** SQL/NoSQL databases, data analysis, secure data handling
+- **DevOps & Automation:** Docker, cloud deployment, security automation, scripting (PowerShell, Bash)
+- **Hardware Projects:** Raspberry Pi, IoT solutions, network security monitoring
+
+### 🔒 Cybersecurity Focus Areas
+- **Application Security:** OWASP Top 10, secure code review, static/dynamic analysis
+- **Network Security:** Traffic analysis, intrusion detection, firewall configuration
+- **Digital Forensics:** Log analysis, incident investigation, evidence collection
+- **Penetration Testing:** Web app testing, network scanning, vulnerability exploitation
+- **Security Tools:** Nmap, Burp Suite, Metasploit, SIEM solutions, vulnerability scanners
+
+## 🛡️ Cybersecurity Journey & Certifications
+
+<div align="center">
+
+### 🎯 Current Learning Path
+
+</div>
+
+**Currently Mastering:**
+- 🔐 **Ethical Hacking & Penetration Testing** (Hands-on practice with vulnerable applications)
+- 🕵️ **Digital Forensics and Incident Response** (DFIR methodologies)
+- 🌐 **Advanced Network Security** (IDS/IPS, SIEM configuration)
+- 🔍 **Malware Analysis & Reverse Engineering** (Static and dynamic analysis)
+
+**Target Certifications:**
+- 🎖️ **CompTIA Security+** (2025)
+- 🏆 **Certified Ethical Hacker (CEH)** (2025)
+- 🥇 **OSCP - Offensive Security Certified Professional** (2026)
+- 📜 **CISSP** (Long-term goal)
 
 ## 🌟 Featured Projects
 
@@ -117,6 +148,13 @@ Web-based platform enabling event organizers to create interactive feedback sess
 
 ### 🥧 [Raspberry Pi Projects](https://github.com/seakyy/Raspberry-Pi)
 Comprehensive exploration of Raspberry Pi 5 setup, Apache installation, and web hosting, demonstrating Linux administration and hardware integration skills.
+
+### 🔐 Cybersecurity Projects (In Development)
+- **🕸️ Web Application Security Scanner:** Python-based tool for automated vulnerability detection
+- **🌐 Network Traffic Analyzer:** Real-time network monitoring and anomaly detection system
+- **🛡️ Security Hardening Scripts:** PowerShell/Bash automation for system security configuration
+- **🔍 Digital Forensics Toolkit:** Collection of tools for incident response and evidence analysis
+- **🎯 Penetration Testing Lab:** Virtualized environment for practicing ethical hacking techniques
 
 </details>
 
@@ -205,15 +243,27 @@ Comprehensive exploration of Raspberry Pi 5 setup, Apache installation, and web 
 
 <div align="center">
 
-### 🌍 Let's Build Something Amazing Together!
+### 🌍 Let's Build Something Amazing & Secure Together!
 
-*Open to collaboration, learning opportunities, and innovative projects*
+*Open to collaboration, learning opportunities, and innovative security-focused projects*
 
-**📧 Reach out for:** Open Source Contributions • Project Collaborations • Tech Discussions • Mentorship
+**📧 Reach out for:** 
+- 🔐 **Cybersecurity Discussions & Knowledge Sharing**
+- 🤝 **Open Source Security Contributions** 
+- 🚀 **Project Collaborations with Security Focus**
+- 📚 **Tech Discussions & Mentorship**
+- 🛡️ **Security Code Reviews & Penetration Testing**
+- 🎯 **CTF Competitions & Security Challenges**
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=seakyy&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 
 <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+<br/>
+<sub>🔐 Committed to building a more secure digital world, one line of code at a time</sub>
+
+</div>
+
+</details>
 
 </div>
