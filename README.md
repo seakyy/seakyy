@@ -2,7 +2,7 @@
   
 # 👋 Hey there, I'm David Koteski!
 
-### 🚀 Application Developer | Backend Specialist | 🔐 CyberSecurity Enthusiast
+###  Application Developer &  CyberSecurity Enthusiast
 
 *Building scalable, secure, and efficient applications with passion for digital security*
 
