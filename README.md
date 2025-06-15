@@ -67,7 +67,9 @@ I'm a highly motivated and versatile application developer with a strong foundat
 </tr>
 </table>
 
-### 🎯 Specialized Areas
+<details>
+<summary> ### What I'm doing for fun! </summary>
+
 - **Backend Development:** API design, microservices, system architecture
 - **🔐 Cybersecurity & Ethical Hacking:** Penetration testing, vulnerability assessment, security audits
 - **🛡️ Security & Risk Management:** Secure coding practices, threat modeling, incident response
@@ -97,10 +99,12 @@ I'm a highly motivated and versatile application developer with a strong foundat
 - 🔍 **Malware Analysis & Reverse Engineering** (Static and dynamic analysis)
 
 **Target Certifications:**
-- 🎖️ **CompTIA Security+** (2025)
-- 🏆 **Certified Ethical Hacker (CEH)** (2025)
-- 🥇 **OSCP - Offensive Security Certified Professional** (2026)
+- 🎖️ **CompTIA Security+** (Aiming for this!)
+- 🏆 **Certified Ethical Hacker (CEH)** (Aiming for this!)
+- 🥇 **OSCP - Offensive Security Certified Professional** (Aiming for this!)
 - 📜 **CISSP** (Long-term goal)
+
+</details>
 
 ## 🌟 Featured Projects
 
